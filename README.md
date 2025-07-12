@@ -10,8 +10,11 @@ Para entrar em contato comigo.:
 Linkedin
 <a href="https://www.linkedin.com/in/paulo-ricardo-da-silva-194722358/">Clique aqui</a>
 
-E-mail: paulo.silva1716@etec.sp.gov.br
+E-mail: 
+ <a href="mailto:paulo.silva1716@etec.sp.gov.br">Clique aqui</a>
 
-Ou se quiser me mandar um e-mail criptografado (sabe se lá o porquê!), pode me mandar um email por proton!: rick1716@proton.me
+Ou se quiser me mandar um e-mail criptografado (sabe se lá o porquê!), pode me mandar um email por proton!: 
+<a href="mailto:rick1716@proton.me">Clique aqui</a>
+
 
 
